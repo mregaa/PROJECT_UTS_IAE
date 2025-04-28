@@ -28,7 +28,7 @@
                                     <strong>Stok:</strong> {{ $car->stock }}
                                 </p>
                                 <div class="d-flex justify-content-end">
-                                    <a href="#" class="btn btn-primary">Beli</a>
+                                    <a href="http://localhost:8002/orders/{{ $car['id'] }}" class="btn btn-primary">Beli</a>
                                 </div>
                             </div>
                         </div>

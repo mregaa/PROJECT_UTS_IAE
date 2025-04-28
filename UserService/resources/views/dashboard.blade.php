@@ -28,7 +28,7 @@
                     @endif
                 @endauth
             @endif
-            <li><a href="http://127.0.0.1:8001/car">Daftar Mobil</a></li>
+            <li><a href="http://127.0.0.1:8001/cars">Daftar Mobil</a></li>
         </ul>
     </nav>
 
@@ -57,7 +57,7 @@
                     </p>
                 </div>
                 <footer>
-                    <a href="http://127.0.0.1:8001/car" class="button alt">Lihat Daftar Mobil</a>
+                    <a href="http://127.0.0.1:8001/cars" class="button alt">Lihat Daftar Mobil</a>
                 </footer>
             </article>
         </div>
